@@ -1,1 +1,25 @@
 @import "bootstrap";
+
+// .jumbotron {
+// 	padding-top: 0px;
+// 	background: url(guitar1.jpg);
+// 	background-size: cover;
+// 	background-position: 50% 50%;
+// 	height: 600px;
+// }
+
+#home_img {
+  padding-top: 0px;
+  background: url(guitar1.jpg);
+  background-size: cover;
+  background-position: 50% 50%;
+  height: 500px;
+}
+
+#about_img {
+  padding-top: 0px;
+  background: url(guitar2.jpg);
+  background-size: cover;
+  background-position: 50% 50%;
+  height: 400px;
+}
